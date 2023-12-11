@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+.env
+app/__pycache__/
+alembic/
+routers/__pycache__/
